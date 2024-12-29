@@ -64,6 +64,8 @@ The goal of this project is to study the functioning of the LOIC tool, simulate 
 - Set up the required dependencies and ensure it runs in a test environment.  
 - Verify the configuration to ensure compatibility with the test environment.  
 
+![loic new](https://github.com/user-attachments/assets/0caca897-cc46-42cd-93ba-372437719f82)
+
 ---
 
 ### 2. CONFIGURING TARGETS  
