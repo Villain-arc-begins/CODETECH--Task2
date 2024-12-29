@@ -22,7 +22,7 @@
 **Objective**: To install and configure Suricata to provide IDS and IPS functionality within pfSense.  
 **Description**: This module covers the installation of the Suricata package in pfSense, configuring it to monitor network traffic, and setting up rule sets for intrusion detection and prevention. This includes enabling either IDS (Intrusion Detection System) for alerting or IPS (Intrusion Prevention System) for actively blocking malicious traffic.  
 
-
+![Screenshot from 2024-11-19 19-49-16](https://github.com/user-attachments/assets/66f39551-b0a5-46d1-8db4-1ddc2b25fb7b)
 
 
 ---
