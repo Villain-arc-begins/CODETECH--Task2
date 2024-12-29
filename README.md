@@ -1,7 +1,7 @@
 # RED TEAM VS. BLUE TEAM SIMULATION:
 
-
- 
+---
+ BLUE TEAM SIMULATION 
 
 ### 1. VIRTUAL ENVIRONMENT SETUP  
 **Objective**: To create a virtualized network infrastructure to host the firewall and IDS/IPS.  
