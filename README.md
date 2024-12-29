@@ -42,3 +42,4 @@
 ### 6. LOGGING AND MONITORING  
 **Objective**: To enable logging and monitor security events in both pfSense and Suricata.  
 **Description**: This module involves setting up logging and monitoring capabilities in pfSense and Suricata. Logs will be analyzed to detect potential security events, providing insights into network activity and helping improve security configurations.  
+![Screenshot from 2024-08-05 11-03-23](https://github.com/user-attachments/assets/260ed517-5ef1-42b6-8fbc-039e761c2c9f)
