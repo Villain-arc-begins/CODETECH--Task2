@@ -1,5 +1,12 @@
 # RED TEAM VS. BLUE TEAM SIMULATION:
 
+ **Name**: Mohammad Salman Salahutheen  
+ **Company**: CODTECH IT SOLUTIONS  
+ **ID**: CT6WEFH  
+ **Domain**: Cyber Security & Ethical Hacking  
+ **Duration**: December 17th, 2024, to February 2nd, 2025  
+ **Mentor**: N. Santhosh 
+
 
  BLUE TEAM SIMULATION 
 
